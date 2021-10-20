@@ -1,0 +1,2 @@
+Run in terminal:
+jupyter nbconvert --to html --execute 8_presentation.ipynb --no-input --no-prompt
