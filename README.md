@@ -1,5 +1,10 @@
 # OlympicsAthletesSQL
 
+Analysis of the SportsStats dataset using SQL, Pandas, Plotly in a Jupyter Notebook.
+Look at the final result with interactive maps and plots here: https://andrea-olympics-sql.herokuapp.com/
+
+<br>
+
 ## Goal of the analysis
 The analysis relies on the SportsStats dataset to study country-wide patterns in terms of medal earning.
 
