@@ -3,6 +3,8 @@
 Analysis of the SportsStats dataset using SQL, Pandas, Plotly in a Jupyter Notebook.
 Look at the final result with interactive maps and plots here: https://andrea-olympics-sql.herokuapp.com/
 
+![](images/summary.png)
+
 <br>
 
 ## Goal of the analysis
